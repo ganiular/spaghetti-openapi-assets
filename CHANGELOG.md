@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.3.5] - 2026-02-06
+
+### Added
+
+- User can now delete wanted project from workspace
+
 ## [0.3.2] - 2026-02-02
 
 ### Added
