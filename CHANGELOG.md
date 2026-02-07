@@ -7,11 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.3.6] - 2026-02-06
+
+### Added
+
+- Rename action for project and endpoint
+
 ## [0.3.5] - 2026-02-06
 
 ### Added
 
-- User can now delete wanted project from workspace
+- User can now delete unwanted project from workspace
 
 ## [0.3.2] - 2026-02-02
 
