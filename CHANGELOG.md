@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.3.7] - 2026-02-06
+
+### Added
+
+- Endpoint search feature
+
 ## [0.3.6] - 2026-02-06
 
 ### Added
