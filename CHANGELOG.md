@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.4.0] - 2026-02-11
+
+### Added
+
+- Favorite Endpoints section. User can add, remove, group and change position of a favorite endpoint
+
 ## [0.3.7] - 2026-02-06
 
 ### Added
