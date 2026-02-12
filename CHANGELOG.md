@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.4.1] - 2026-02-12
+
+### Added
+
+- Rename option for favorite group name
+- Sync endpoint rename with panel title and favorite endpoint name
+
 ## [0.4.0] - 2026-02-11
 
 ### Added
