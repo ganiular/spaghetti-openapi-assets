@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.4.2] - 2026-02-12
+
+### Fixed
+
+- Endpoints now reloads when project change
+
 ## [0.4.1] - 2026-02-12
 
 ### Added
