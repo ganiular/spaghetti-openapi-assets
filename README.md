@@ -26,6 +26,7 @@ Whether you’re working with **FastAPI, Express, Django, Laravel**, or any back
 - 🔄 **Project reload** – Re-fetch API specs from file or URL when changes occur.
 - 🧠 **State-aware panels** – Automatically closes stale views when project data changes.
 - **Search enpoint** - Easy search for endpoint
+- **Offline note** - Keep note per endpoint and track note status.
 
 > More features such as request execution, environments, and variables are actively planned.
 

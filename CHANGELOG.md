@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.5.0] - 2026-02-15
+
+### Added
+
+- Offline note keeping per endpoint
+
 ## [0.4.2] - 2026-02-12
 
 ### Fixed
