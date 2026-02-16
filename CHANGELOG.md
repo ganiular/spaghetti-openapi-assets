@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.5.1] - 2026-02-16
+
+### Added
+
+- Note option to context menu
+- Last note details on thread list item
+- Replace notes count to all status count with status color.
+- Improve note page stylings
+
 ## [0.5.0] - 2026-02-15
 
 ### Added
