@@ -9,6 +9,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ## [0.5.1] - 2026-02-16
 
+### Fix Bug
+
+- Resolve icon not showing issue.
+
+## [0.5.1] - 2026-02-16
+
 ### Added
 
 - Note option to context menu
