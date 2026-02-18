@@ -7,11 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
-## [0.5.1] - 2026-02-16
+## [0.5.2-3] - 2026-02-18
 
 ### Fix Bug
 
 - Resolve icon not showing issue.
+- Enhance usage guide
 
 ## [0.5.1] - 2026-02-16
 
