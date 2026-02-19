@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.5.4] - 2026-02-19
+
+### Fix Bug
+
+- Implement click outside to close note block.
+- Collapse Project view on sidebar by default
+
 ## [0.5.2-3] - 2026-02-18
 
 ### Fix Bug
