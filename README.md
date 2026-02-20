@@ -60,14 +60,11 @@ Here is a corrected and polished version with improved grammar, clarity, and con
 
 5. Your project is now added. Open the **Endpoints** tree view from the sidebar and select an endpoint to open the endpoint panel.
 
-6. Change the default domain URL to your API base URL (see the image below).
-   ![Change domain URL](screenshots/domain-url.png)
+6. Set the request body and parameters, then click **Send Request**.
 
-7. Set the request body and parameters, then click **Send Request**.
+7. Done.
 
-8. Done.
-
-9. You can also explore other features such as **History**, **Favorites**, and **Comments**.
+8. You can also explore other features such as **History**, **Favorites**, and **Comments**.
 
 ---
 

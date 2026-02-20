@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.5.5] - 2026-02-20
+
+### Fix Bug
+
+- Remove initial value of baseUrl. Show a dialog for user to set it if not defined
+
 ## [0.5.4] - 2026-02-19
 
 ### Fix Bug
