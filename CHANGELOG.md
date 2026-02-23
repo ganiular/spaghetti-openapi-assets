@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.6.0] - 2026-02-23
+
+### Added
+
+- Persistence form data
+- Plane request body support
+
+### Update
+
+- Adjust input styling
+
 ## [0.5.5] - 2026-02-20
 
 ### Fix Bug
