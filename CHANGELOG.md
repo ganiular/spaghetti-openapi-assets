@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.6.1] - 2026-02-26
+
+### Fix Bug
+
+- Resolve history response and request body not changing when changed from history dropdown
+- Resolve plane history request body not correct
+
 ## [0.6.0] - 2026-02-23
 
 ### Added
