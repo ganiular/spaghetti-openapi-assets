@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.7.0] - 2026-03-28
+
+### Feature
+
+- Accept Swagger or Redoc url and auto retrive the spec-url
+
 ## [0.6.4] - 2026-03-28
 
 ### Fix Bug
