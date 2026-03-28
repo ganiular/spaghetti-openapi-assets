@@ -7,6 +7,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/).
 
 ---
 
+## [0.6.4] - 2026-03-28
+
+### Fix Bug
+
+- Add environment default values
+- Fix array schema fields values parsing
+
+## [0.6.3] - 2026-03-18
+
+### Fix Bug
+
+- Remove disabled attribute from field after being included
+
+## [0.6.2] - 2026-03-06
+
+### Added
+
+- Remember included and excluded fields
+
 ## [0.6.1] - 2026-02-26
 
 ### Fix Bug
